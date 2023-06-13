@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "67328279712",
+    "project_id": "morningrush-830ce",
+    "storage_bucket": "morningrush-830ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67328279712:android:d48ddf38125336ac4435c5",
+        "android_client_info": {
+          "package_name": "com.morningrush.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67328279712-0uqae7cbomaovtk2ft9ts0okl2htic61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRmJ4e4ZM7c9vLz4sRbq5AnJJAn4D34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67328279712-0uqae7cbomaovtk2ft9ts0okl2htic61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67328279712-rifvqighad6sjtnv9egbcrj20i7grqdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.morningrush.firebasedb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

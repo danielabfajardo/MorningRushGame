@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="maze" size="10.000000 10.032362" />
+    <ImageTarget name="mission2" size="10.000000 14.146188" />
+    <ImageTarget name="mission2qr" size="10.000000 10.000000" />
+    <ImageTarget name="mission2bw" size="10.000000 10.000000" />
+    <ImageTarget name="astronaut" size="10.000000 17.272728" />
+    <ImageTarget name="card" size="10.000000 14.500000" />
+    <ImageTarget name="card1" size="7.000000 10.150000" />
+  </Tracking>
+</QCARConfig>
